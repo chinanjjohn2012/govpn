@@ -22,7 +22,7 @@ import (
 	"log"
 	"net"
 
-	"govpn"
+	"github.com/stargrave/govpn/src/govpn"
 )
 
 type UDPSender struct {

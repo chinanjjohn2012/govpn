@@ -25,7 +25,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"govpn"
+	"github.com/stargrave/govpn/src/govpn"
 )
 
 func startTCP(timeouted, rehandshaking, termination chan struct{}) {

@@ -24,7 +24,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"govpn"
+	"github.com/stargrave/govpn/src/govpn"
 )
 
 func startUDP(timeouted, rehandshaking, termination chan struct{}) {

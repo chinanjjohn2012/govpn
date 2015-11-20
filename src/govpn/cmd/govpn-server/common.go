@@ -24,7 +24,7 @@ import (
 	"sync"
 	"time"
 
-	"govpn"
+	"github.com/stargrave/govpn/src/govpn"
 )
 
 type PeerState struct {

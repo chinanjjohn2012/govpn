@@ -27,7 +27,7 @@ import (
 	"os/signal"
 	"time"
 
-	"govpn"
+	"github.com/stargrave/govpn/src/govpn"
 )
 
 var (

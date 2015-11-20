@@ -24,7 +24,7 @@ import (
 	"log"
 	"time"
 
-	"govpn"
+	"github.com/stargrave/govpn/src/govpn"
 )
 
 const (
